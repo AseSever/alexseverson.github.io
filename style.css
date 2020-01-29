@@ -1,11 +1,6 @@
-
-
-
-
-
-
-
-
+html, body{
+  margin: 0;
+}
 
 h1 {
   font-family: 'Lato', sans-serif;
@@ -16,3 +11,5 @@ h1 {
 p {
   
 }
+
+
