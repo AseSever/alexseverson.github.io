@@ -3,6 +3,9 @@ html, body{
   font-family: 'Lato', sans-serif;
 }
 
+.page-title{
+  display: inline;
+}
    
 p {
   
