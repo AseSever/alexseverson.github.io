@@ -3,6 +3,14 @@ html, body{
   font-family: 'Lato', sans-serif;
 }
 
+header{
+  padding: 5px;
+}
+
+h4{
+  display: inline;
+}
+
 .page-title{
   display: inline;
 }
