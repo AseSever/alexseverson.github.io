@@ -17,12 +17,12 @@ h1{
 }
 
 h3{
-  font-size: 30px;
-  margin-bottom: 5px;
+  font-size: 25px;
+  margin-bottom: -5px;
 }
 
 h4{
-  display: right;
+  text-align: right;
 }
 
   
