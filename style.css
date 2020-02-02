@@ -8,16 +8,25 @@ html, body{
   font-family: 'Lato', sans-serif;
 }
 
+hr{
+  width: 80%;
+  height: 2px;
+  display: center;
+}
+
 h1{
   font-size: 64px;
 }
 
 h3{
-  font-size: 25px;
   margin-bottom: -5px;
 }
 
 h4{
+  font-size: 15px;
+}
+
+h5{  
   text-align: right;
 }
 
