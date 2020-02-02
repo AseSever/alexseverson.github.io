@@ -1,6 +1,6 @@
 html, body{
   margin-left: 20px;
-  margin-right: 200px;
+  margin-right: 150px;
   margin-top: 20px;
   
   padding: 10px 100px 10px 100px;
@@ -9,19 +9,22 @@ html, body{
 }
 
 header{
-  padding: 5px;
+ 
+}
+
+h1{
+  font-size: 64px;
+}
+
+h3{
+  font-size: 30px;
+  margin-bottom: 5px;
 }
 
 h4{
-  display: inline;
+  display: right;
 }
 
-.page-title{
-  display: inline;
-}
-   
-p {
   
-}
 
 
